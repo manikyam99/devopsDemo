@@ -1,6 +1,7 @@
 This is first commit
 
-
+<<<<<<< HEAD
 This is a feur 1
-
+=======
 This is feature2
+>>>>>>> f2
